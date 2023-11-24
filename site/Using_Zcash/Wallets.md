@@ -1,3 +1,5 @@
+[](https://i.imgur.com/n2bxxe1.jpg)
+
 # Zcash Wallets
 
 Wallets allow you to receive and spend Zcash. Some also support encrypted memos. Only you should have access to your wallet.
